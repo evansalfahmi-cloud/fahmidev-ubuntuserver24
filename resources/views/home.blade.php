@@ -5,7 +5,7 @@
 @section('content')
 <header class="bg-welcome text-white text-center py-5">
     <div class="container">
-        <h1>Welcome to Literatur.com</h1>
+        <h1>Welcome to Literatur</h1>
         <p class="lead">Knowledge for Positive Change</p>
     </div>
 </header>
