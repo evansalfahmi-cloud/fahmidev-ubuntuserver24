@@ -24,7 +24,7 @@
             <!-- Card Body (Over Image) -->
             <div class="card-body position-absolute bottom-0 start-0 text-white bg-dark bg-opacity-75 w-100 px-3 py-2">
                 <p class="card-text">"Explore the evolution of technology and its impact on our lives."</p>
-                <a href="/tech" class="btn btn-navy btn-sm">See Tech News</a>
+                <a href="/tech" class="btn btn-navy btn-sm">Lihat Tech News</a>
 
             </div>
         </div>
