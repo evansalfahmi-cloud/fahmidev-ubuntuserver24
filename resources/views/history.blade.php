@@ -5,7 +5,7 @@
 @section('content')
 <header class="bg-navy text-white text-center py-5">
     <div class="container">
-        <h1>Sejarah Peradaban Dunia</h1>
+        <h1>Peradaban Dunia</h1>
         <p class="lead">Menyelami Perjalanan Sejarah yang Membentuk Dunia Kita</p>
     </div>
 </header>
